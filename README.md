@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a normal guy (I mean), and i like chocolate
+I'm a normal guy (I mean), and i like paçoca
 
 - 🔭 I’m currently working on nowhere
 - 🌱 I’m currently learning Git
